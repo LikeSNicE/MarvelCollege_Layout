@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="532" height="1010" viewBox="0 0 532 1010">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 600px;
+        fill: #ffe400;
+        text-anchor: middle;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="O" class="cls-1" transform="translate(17.921 999.983) scale(2.33)"><tspan x="0">O</tspan></text>
+</svg>
